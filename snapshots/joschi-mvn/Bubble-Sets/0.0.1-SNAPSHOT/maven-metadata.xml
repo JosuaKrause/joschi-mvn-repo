@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>BusVis</groupId>
-  <artifactId>BusVis</artifactId>
+  <groupId>joschi-mvn</groupId>
+  <artifactId>Bubble-Sets</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20120624.060356</timestamp>
+      <timestamp>20120624.083945</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20120624060356</lastUpdated>
+    <lastUpdated>20120624083945</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20120624.060356-1</value>
-        <updated>20120624060356</updated>
+        <value>0.0.1-20120624.083945-1</value>
+        <updated>20120624083945</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20120624.060356-1</value>
-        <updated>20120624060356</updated>
+        <value>0.0.1-20120624.083945-1</value>
+        <updated>20120624083945</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

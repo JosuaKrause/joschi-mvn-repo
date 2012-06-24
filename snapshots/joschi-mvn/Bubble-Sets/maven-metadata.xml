@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>Bubble-Sets</groupId>
+  <groupId>joschi-mvn</groupId>
   <artifactId>Bubble-Sets</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120624062033</lastUpdated>
+    <lastUpdated>20120624083945</lastUpdated>
   </versioning>
 </metadata>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>BusVis</groupId>
+  <groupId>joschi-mvn</groupId>
   <artifactId>BusVis</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120624060356</lastUpdated>
+    <lastUpdated>20120624083938</lastUpdated>
   </versioning>
 </metadata>
